@@ -41,7 +41,7 @@ let lenis;
 const initSmoothScrolling = () => {
 	
     lenis = new Lenis({
-		lerp: 0.2,
+		lerp: 0.3,
 		smooth: true
 	});
 
